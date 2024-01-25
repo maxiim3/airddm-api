@@ -1,0 +1,226 @@
+[
+  {
+    "gender": "female",
+    "name": {
+      "title": "Ms",
+      "first": "Mileah",
+      "last": "Øksnes"
+    },
+    "location": {
+      "street": {
+        "number": 1406,
+        "name": "Dannevigsveien"
+      },
+      "city": "Remøy",
+      "state": "Vestfold",
+      "country": "Norway",
+      "postcode": "2057",
+      "coordinates": {
+        "latitude": "39.7956",
+        "longitude": "136.9764"
+      },
+      "timezone": {
+        "offset": "+5:45",
+        "description": "Kathmandu"
+      }
+    },
+    "email": "mileah.oksnes@example.com",
+    "login": {
+      "uuid": "bfcc229f-ba06-4e18-99b7-f3f76bba0a77",
+      "username": "heavyzebra307",
+      "password": "raiders",
+      "salt": "PbA5hIvK",
+      "md5": "6a112c3d87d489156fd0d737da8ef2b3",
+      "sha1": "72eaec07023cde756b426b3a5b9fbe6b8693fd86",
+      "sha256": "4b7b70d135827fdcfc8c985ec7b2e5d80ef8b455709a5a8a25bbb2307565328e"
+    },
+    "dob": {
+      "date": "1998-06-02T13:23:44.272Z",
+      "age": 25
+    },
+    "registered": {
+      "date": "2011-05-20T11:32:19.785Z",
+      "age": 12
+    },
+    "phone": "77606441",
+    "cell": "96548809",
+    "id": {
+      "name": "FN",
+      "value": "02069802292"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/38.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/38.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/38.jpg"
+    },
+    "nat": "NO"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "Ms",
+      "first": "Anica",
+      "last": "Strecker"
+    },
+    "location": {
+      "street": {
+        "number": 1271,
+        "name": "Bahnhofstraße"
+      },
+      "city": "Schönsee",
+      "state": "Thüringen",
+      "country": "Germany",
+      "postcode": 32694,
+      "coordinates": {
+        "latitude": "-64.5517",
+        "longitude": "150.6754"
+      },
+      "timezone": {
+        "offset": "-12:00",
+        "description": "Eniwetok, Kwajalein"
+      }
+    },
+    "email": "anica.strecker@example.com",
+    "login": {
+      "uuid": "b87dc0e8-f339-40ee-821c-f49a0349d09b",
+      "username": "sadpanda211",
+      "password": "manuela",
+      "salt": "MPanqKZa",
+      "md5": "4f64ea6f417767e889505c5ee989deb5",
+      "sha1": "2d0c0c9fcafe8d50178aac66f78a2fa2941c8f46",
+      "sha256": "82f44f5187166e424f3c7c345d0584f086598b5772650325ae39cbf8f830b928"
+    },
+    "dob": {
+      "date": "1989-04-19T14:57:57.690Z",
+      "age": 34
+    },
+    "registered": {
+      "date": "2013-09-13T05:13:42.217Z",
+      "age": 10
+    },
+    "phone": "0483-0928031",
+    "cell": "0170-2694702",
+    "id": {
+      "name": "SVNR",
+      "value": "09 190489 S 621"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/36.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/36.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/36.jpg"
+    },
+    "nat": "DE"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Nathaniel",
+      "last": "Gibson"
+    },
+    "location": {
+      "street": {
+        "number": 7914,
+        "name": "James St"
+      },
+      "city": "Geelong",
+      "state": "New South Wales",
+      "country": "Australia",
+      "postcode": 8844,
+      "coordinates": {
+        "latitude": "-83.1601",
+        "longitude": "-131.5487"
+      },
+      "timezone": {
+        "offset": "+11:00",
+        "description": "Magadan, Solomon Islands, New Caledonia"
+      }
+    },
+    "email": "nathaniel.gibson@example.com",
+    "login": {
+      "uuid": "b4fc6539-8db0-44c5-9fdc-2ed58ce467c8",
+      "username": "ticklishrabbit237",
+      "password": "viking",
+      "salt": "HYUcsWuL",
+      "md5": "705d2775243804fb09ba67b6229c4065",
+      "sha1": "9ecfecf0d0086e14274b29fd5f060788508088e6",
+      "sha256": "c91da77fa8ff88f5cdacb9f6e6837dbc8b9ed8545b42f41d3576b395695441c4"
+    },
+    "dob": {
+      "date": "1994-09-06T04:10:18.043Z",
+      "age": 29
+    },
+    "registered": {
+      "date": "2019-11-12T05:12:14.629Z",
+      "age": 4
+    },
+    "phone": "05-7924-4755",
+    "cell": "0470-714-277",
+    "id": {
+      "name": "TFN",
+      "value": "496127031"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/33.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/33.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/33.jpg"
+    },
+    "nat": "AU"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Adam",
+      "last": "Petersen"
+    },
+    "location": {
+      "street": {
+        "number": 1343,
+        "name": "Birkevej"
+      },
+      "city": "Hirtsals",
+      "state": "Hovedstaden",
+      "country": "Denmark",
+      "postcode": 12398,
+      "coordinates": {
+        "latitude": "-9.7085",
+        "longitude": "14.9316"
+      },
+      "timezone": {
+        "offset": "-7:00",
+        "description": "Mountain Time (US & Canada)"
+      }
+    },
+    "email": "adam.petersen@example.com",
+    "login": {
+      "uuid": "a652226a-b156-4aed-ad11-d05bac217d34",
+      "username": "beautifulwolf391",
+      "password": "postman",
+      "salt": "4R30jRjX",
+      "md5": "705d3bdcdaa0754cf8aa824f10bb1e5b",
+      "sha1": "54ae6b8d9cf2fd70f8f2db1eb4877dcc0471db31",
+      "sha256": "94d6e7b4464aaa1dba2272a825aaee857ba41d2bd586a05ac47663367bec3cd2"
+    },
+    "dob": {
+      "date": "1959-06-12T01:22:30.673Z",
+      "age": 64
+    },
+    "registered": {
+      "date": "2016-11-28T07:18:02.883Z",
+      "age": 7
+    },
+    "phone": "94902998",
+    "cell": "14807167",
+    "id": {
+      "name": "CPR",
+      "value": "110659-9223"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/81.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/81.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/81.jpg"
+    },
+    "nat": "DK"
+  }
+]
